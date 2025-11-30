@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# GitHub Pages – main entry point
+Sitemap: 
