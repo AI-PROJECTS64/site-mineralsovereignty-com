@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# GitHub Pages – main entry point
-Sitemap: 
+Sitemap: https://www.mineralsovereignty.com/sitemap.xml
